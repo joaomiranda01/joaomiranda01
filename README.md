@@ -21,7 +21,7 @@
 <a href="mailto:joaovictorpraxedes60@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="95">
 </a>
-<a href="https://www.linkedin.com/in/joao-victor-praxedes-de-miranda-189246354">
+<a href="www.linkedin.com/in/joão-victor-praxedes-de-miranda-189246354">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100">
 </a>
 
