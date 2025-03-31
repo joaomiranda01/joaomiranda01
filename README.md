@@ -12,9 +12,6 @@
 <a href="https://www.instagram.com/joao011s">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="135">
 </a>
-<a href="SEU_LINK_DA_TWITCH">
-  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch" width="100">
-</a>
 <a href="https://discord.gg/j9Y5upJ4">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" width="110">
 </a>
@@ -23,6 +20,10 @@
 </a>
 <a href="https://www.linkedin.com/in/joão-victor-praxedes-de-miranda-189246354" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<!--<a href="SEU_LINK_DA_TWITCH">
+  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch" width="100">
 </a>
 
 
